@@ -90,6 +90,7 @@ input[type="button"] {
     background-color: rgb(255, 135, 7);
     font-size: 25px;
     transition: 0.5s;
+    padding: 15px;
   }
 
   .btn:hover {
